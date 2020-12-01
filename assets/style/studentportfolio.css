@@ -3679,7 +3679,11 @@ input[type=button].btn-block {
 #about .download .button {
    margin-top: 6px;
    margin-right: 20px;
-   background: white;
+   background: #f4623a;
+   color: white;
+}
+#about .reflection{
+  color: white;
 }
 #about .download .button:hover {
    background: black;
